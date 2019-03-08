@@ -6,3 +6,4 @@ int main() {
 
 cout <<"Your code is better because you have 2 Tims pushing it" << endl;
 
+Yauheni Patskevich
